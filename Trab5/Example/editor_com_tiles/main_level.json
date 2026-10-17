@@ -1,0 +1,27 @@
+{
+    "objetos" : [ 
+        {   
+           "imagem" : {
+                "dir" : "quack.png",
+                "dim" : [32,32] 
+           },
+            "pos"   : [20, 40 ]
+         },
+        
+         {   
+           "imagem" : {
+                "dir" : "step.png",
+                "dim" : [64,64] 
+           },
+            "pos"   : [200, 400 ]
+         },
+         
+        {   
+           "imagem" : {
+                "dir" : "duck.png",
+                "dim" : [320,320] 
+           },
+            "pos"   : [400, 40 ]
+         } 
+   ]     
+}
